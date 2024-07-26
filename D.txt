@@ -1,0 +1,6 @@
+S -> aAd
+A -> aAd
+A -> #X#
+X -> bZc
+Z -> bZc
+Z -> #

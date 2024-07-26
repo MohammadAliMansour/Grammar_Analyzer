@@ -1,0 +1,6 @@
+S -> aXY
+X -> aX
+X -> #
+Y -> bZc
+Z -> bZc
+Z -> #
